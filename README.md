@@ -3,8 +3,8 @@
 ## 概要
 プログラミングスクール「TECH CAMP」にて、フリーマーケットのアプリケーションを作成しました。
 
-## 接続先情報
-- デプロイ先：http://54.95.199.71/
+## :globe_with_meridians:App Info
+http://54.95.199.71/
 
 - ID/Pass
   - ID: admin
