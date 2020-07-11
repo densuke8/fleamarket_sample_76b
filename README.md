@@ -3,7 +3,7 @@
 ## 概要
 プログラミングスクール「TECH CAMP」にて、フリーマーケットのアプリケーションを作成しました。
 
-## :globe_with_meridians:App Info
+## :globe_with_meridians:App URL
 http://54.95.199.71/
 
 - ID/Pass
