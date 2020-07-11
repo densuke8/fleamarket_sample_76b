@@ -3,6 +3,8 @@
 ## 概要
 プログラミングスクール「TECH CAMP」にて、フリーマーケットのアプリケーションを作成しました。
 
+![](https://github.com/densuke8/fleamarket_sample_76b/blob/master/public/images/index.png)
+
 ## :globe_with_meridians:App URL
 http://54.95.199.71/
 
