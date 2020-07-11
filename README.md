@@ -38,3 +38,6 @@
 ## DB設計
 - [ER図](https://github.com/densuke8/fleamarket_sample_76b/blob/master/public/images/ER%E5%9B%B3.png)
 - [仕様書](https://github.com/densuke8/fleamarket_sample_76b/blob/master/db/documents/spec.md)
+
+## License
+- [MIT License](https://github.com/densuke8/fleamarket_sample_76b/blob/master/LICENSE.md)
